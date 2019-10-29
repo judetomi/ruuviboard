@@ -1,0 +1,23 @@
+body {
+	background: url('../sharad-bhat-_Z0JGI6FGlA-unsplash.jpg');
+	background-repeat: none;
+	background-position: center;
+}
+
+label,
+h5 {
+	color: #FFFFFF;
+}
+
+.nav-link {
+	color: #FFFFFF;
+}
+
+.nav-link:hover {
+	color: #000000;
+	background-color:#E1650F;
+}
+
+.card-header {
+	cursor: pointer;
+}
